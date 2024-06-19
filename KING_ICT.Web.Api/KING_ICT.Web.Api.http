@@ -1,0 +1,6 @@
+@KING_ICT.Web.Api_HostAddress = http://localhost:5166
+
+GET {{KING_ICT.Web.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
